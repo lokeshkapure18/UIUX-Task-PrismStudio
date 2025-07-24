@@ -31,5 +31,5 @@ This Figma-based design system was created to bring consistency, scalability, an
 - Naming Convention: btn/primary, text/h1, etc.
 
 ## 📁 View the Figma Design
-[🔗 View-Only Figma File Link Here](#)
+[[🔗 View-Only Figma File Link Here](#)](https://www.figma.com/design/NY7RZUnwTTfJk7wpRniZzH/SkillFlex?node-id=48-3&t=C8skZ6MwMaOG9HAp-1)
 
