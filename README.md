@@ -1,24 +1,22 @@
+🌟 SkillFlex 
 
-# 🌟 SkillFlex - Mini Design System (Figma)
-
-This repository contains the **Mini Design System** built for the SkillFlex platform as part of my **UI/UX Internship Task 5**. This system is structured using **Figma styles and tokens**, enabling **scalable, consistent, and efficient design workflows** for current and future UI/UX teams.
+This repository contains the built for the SkillFlex platform as part of my UI/UX Internship Task 5. This system is structured using Figma styles and tokens, enabling **scalable, consistent, and efficient design
+workflows for current and future UI/UX teams.
 
 ---
 
-## 🧩 About SkillFlex
+🧩 About SkillFlex
 
-**SkillFlex** is a futuristic gig-based platform that connects **freelancers** with **business opportunities**, combining **dashboard-style UI** with real-time application tracking, proposal handling, and personalized gig listings. The platform supports seekers and recruiters across domains like IT, design, sales, and more.
+SkillFlex is a futuristic gig-based platform that connects **freelancers** with **business opportunities**, combining **dashboard-style UI** with real-time application tracking, proposal handling, and personalized gig listings. The platform supports seekers and recruiters across domains like IT, design, sales, and more.
 
 ---
 
 ## 📁 Project Structure
 
 ```
-📁 SkillFlex-Mini-Design-System/
-├── 📄 README.md           ← This file
-├── 🔗 Figma File (link below)
+📁 SkillFlex
+├── 🔗 Figma File ([link below](https://www.figma.com/design/NY7RZUnwTTfJk7wpRniZzH/SkillFlex?node-id=48-3&t=C8skZ6MwMaOG9HAp-1))
 ├── 📄 SkillFlex_Mini_Design_System.pdf  ← Tokens (Typography, Colors, Spacing)
-└── 📦 Components (inside Figma)
 ```
 
 ---
@@ -91,7 +89,7 @@ This system includes the following tokens and components:
 ---
 
 ## 🔗 Figma File (View Only)
-[👉 Click here to view the design system in Figma](#)
+[👉 [Click here to view the design in Figma](https://www.figma.com/design/NY7RZUnwTTfJk7wpRniZzH/SkillFlex?node-id=48-3&t=C8skZ6MwMaOG9HAp-1)](#)
 
 ---
 
@@ -125,8 +123,8 @@ spacing/16
 
 **Lokesh Kapure**  
 UI/UX Intern @ Zidio Development  
-Email: [lokeshkapure18@gmail.com](mailto:lokeshkapure18@gmail.com)  
-Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)
+Email: [lokeshkapure2000@gmail.com](mailto:lokeshkapure2000@gmail.com)  
+Portfolio: [https://your-portfolio-link.com]([https://your-portfolio-link.com](https://github.com/lokeshkapure18/UIUX-Task-PrismStudio))
 
 ---
 
