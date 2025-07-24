@@ -123,8 +123,8 @@ spacing/16
 
 **Lokesh Kapure**  
 UI/UX Intern @ PrismStudio
-Email: [lokeshkapure2000@gmail.com](mailto:lokeshkapure2000@gmail.com)  
-Portfolio: [https://your-portfolio-link.com]([https://your-portfolio-link.com](https://github.com/lokeshkapure18/UIUX-Task-PrismStudio))
+Email: (mailto:lokeshkapure2000@gmail.com)  
+Portfolio: (https://github.com/lokeshkapure18/UIUX-Task-PrismStudio)
 
 ---
 
