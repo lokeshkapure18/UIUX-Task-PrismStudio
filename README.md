@@ -122,7 +122,7 @@ spacing/16
 ## 🧑‍💼 Author
 
 **Lokesh Kapure**  
-UI/UX Intern @ Zidio Development  
+UI/UX Intern @ PrismStudio
 Email: [lokeshkapure2000@gmail.com](mailto:lokeshkapure2000@gmail.com)  
 Portfolio: [https://your-portfolio-link.com]([https://your-portfolio-link.com](https://github.com/lokeshkapure18/UIUX-Task-PrismStudio))
 
