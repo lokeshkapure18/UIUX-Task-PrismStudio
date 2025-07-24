@@ -11,13 +11,6 @@ SkillFlex is a futuristic gig-based platform that connects **freelancers** with 
 
 ---
 
-## 📁 Project Structure
-
-```
-📁 SkillFlex
-├── 🔗 Figma File ([link below](https://www.figma.com/design/NY7RZUnwTTfJk7wpRniZzH/SkillFlex?node-id=48-3&t=C8skZ6MwMaOG9HAp-1))
-├── 📄 SkillFlex_Mini_Design_System.pdf  ← Tokens (Typography, Colors, Spacing)
-```
 
 ---
 
