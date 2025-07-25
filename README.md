@@ -88,7 +88,7 @@ This system includes the following tokens and components:
 
 ## 📥 Deliverables
 
-- ✅ Mini Design System PDF: [SkillFlex_Mini_Design_System.pdf](./SkillFlex_Mini_Design_System.pdf)
+- ✅ Mini Design System PDF: (./SkillFlex_Mini_Design_System.pdf](https://github.com/lokeshkapure18/UIUX-Task-PrismStudio/blob/main/Day%205%20-%20Mini%20Design%20System.pdf))
 - ✅ Typography, Colors, Spacing Tokens in Figma
 - ✅ All components built as reusable assets
 - ✅ README for team onboarding
