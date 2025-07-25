@@ -1,0 +1,92 @@
+# 🧩 SkillFlex - Task 8: Developer Handoff
+
+This repository contains the final design handoff files for the SkillFlex interactive prototype. The designs have been structured, cleaned, and documented to ensure a smooth transition from design to development.
+
+---
+
+## 📁 Figma File Structure
+
+- **Components** — Reusable elements (buttons, inputs, tags, cards)
+- **Screens (UI Flow)** — Full user flow (Home → Gig Details → Apply/Post → Confirmation)
+- **Assets** — Icons, logos, and brand elements
+- **Notes for Devs** — Developer-specific instructions
+
+---
+
+## 🛠 Components Prepared
+
+### Buttons (`btn/primary`)
+- States: `default`, `hover`, `pressed`, `disabled`
+- Auto Layout, Padding: 16px / 8px
+- Radius: 8px, Font: Manrope 20px, Text: White
+
+### Inputs
+- States: `default`, `focused`, `error`
+- Placeholder style, consistent border-radius
+
+### Tags / Badges
+- Variants: `tag/primary`, `tag/alt`
+- Rounded: 16px radius
+
+### Cards
+- Job Card with hover shadow
+- Consistent padding and spacing
+- Variants documented
+
+### Modal / Popups
+- Structured with header, body, CTA
+- Optional close icon, overlay
+
+---
+
+## 🎨 Design Tokens
+
+### Typography (Font: Manrope)
+| Token | Size | Weight | Use Case |
+|-------|------|--------|----------|
+| `text/h1` | 70px | Bold | Hero Headings |
+| `text/h2` | 36px | SemiBold | Section Headers |
+| `text/h3` | 24px | Medium | Card Titles |
+| `text/body` | 20px | Regular | Descriptions |
+| `text/caption` | 14px | Light | Meta Info |
+
+### Colors
+- `color/primary`: `#6C63FF`
+- `color/secondary`: `#1A4381`
+- `color/text/dark`: `#000000`
+- `color/text/light`: `#FFFFFF`
+- `color/gradient`: `linear(90°, #6C63FF, #1A4381)`
+
+### Spacing (4px scale)
+- `spacing/4` → 4px
+- `spacing/8` → 8px
+- `spacing/16` → 16px
+- `spacing/24` → 24px
+- `spacing/32` → 32px
+
+---
+
+## 🔗 Figma Prototype
+
+**[View-Only Figma Link (Click Here)](https://www.figma.com/proto/NY7RZUnwTTfJk7wpRniZzH/SkillFlex?page-id=82%3A1265&node-id=82-1267&viewport=526%2C359%2C0.04&t=knfXVOLhcJneKRre-1&scaling=min-zoom&content-scaling=fixed)**  
+Please inspect and interact with the prototype for spacing, font sizes, flows, and transitions.
+
+🔗 Figma File
+
+**[View-Only Figma Link (Click Here)](https://www.figma.com/design/NY7RZUnwTTfJk7wpRniZzH/SkillFlex?node-id=0-1&t=EkL1P4jP7wQDmIIv-1)**  
+
+
+---
+
+## 💬 Developer Tips
+
+- Use Figma **Inspect** tab to check font, spacing, color
+- Match naming like `btn/primary`, `card/job` in code
+- Follow defined token values for color and spacing
+- Use `Variants` and `Auto Layout` for responsive elements
+- Ask if any interaction or state isn’t clear
+
+---
+
+## 📦 Repository Structure
+
